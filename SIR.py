@@ -28,8 +28,10 @@ while s>0 and i>0 and r>=0:
     i += di   
     r += dr
     m += dt
+    
     if m >= 100:
         break
+
 
             
 
